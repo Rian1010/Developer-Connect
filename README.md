@@ -8,7 +8,7 @@
   - entry point: server.js
   - license: (ISC) MIT
 - Regulare dependencies:
-  - npm i express express-validator bcryptjs confid gravatar jsonwebtoken mongoose request
+  - npm i express express-validator bcryptjs config gravatar jsonwebtoken mongoose request
   - npm i -D nodemon concurrently
     - Nodemone: Automatically loads server
 
