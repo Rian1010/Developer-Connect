@@ -1,4 +1,10 @@
+# Developer Connect
+
+Social media app with MongoDB, Express, React, and NodeJS.
+
 ## Process
+
+### Ignored files
 
 - gitignore
 
